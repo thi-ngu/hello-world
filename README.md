@@ -1,2 +1,3 @@
 # hello-world
-Just another repository 
+
+Hello, I'm Thinh and I like tacos.
